@@ -10,7 +10,7 @@ is_contact: true
 
 <p> Feel free to contact me about my research or teaching material at the following address: </p>
 
-<p style="text-align:center"><a href = "mailto:benjamin.gilbert@sciencespo.fr">benjamin.gilbert@sciencespo.fr</a></p>
+<p style="text-align:center"><a href = "mailto:tim.faverjon@sciencespo.fr">tim.faverjon@sciencespo.fr</a></p>
 
 </div>
 

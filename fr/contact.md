@@ -10,7 +10,7 @@ is_contact: true
 
 <p> N'hésitez pas à m'envoyer un mail à l'adresse suivante : </p>
 
-<p style="text-align:center"><a href = "mailto:benjamin.gilbert@sciencespo.fr">benjamin.gilbert@sciencespo.fr</a></p>
+<p style="text-align:center"><a href = "mailto:tim.faverjon@sciencespo.fr">tim.faverjon@sciencespo.fr</a></p>
 
 </div>
 
