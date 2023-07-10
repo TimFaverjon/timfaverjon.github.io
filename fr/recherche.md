@@ -23,7 +23,7 @@ lang: "fr"
 
 ### Posters de conférence
 
-* Faverjon, T., Ramaciotti, P. (2023). How do recommendation algorithms learn and leverage political preferences of users?. In IC2S2 2023: 9th International Conference on Computational Social Science. <a href = "fr/recherche/IC2S2">Link</a>.
+* Faverjon, T., Ramaciotti, P. (2023). How do recommendation algorithms learn and leverage political preferences of users?. In IC2S2 2023: 9th International Conference on Computational Social Science. <a href = "recherche/IC2S2">Link</a>.
 
 ---
 
