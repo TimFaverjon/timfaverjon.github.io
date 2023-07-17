@@ -32,6 +32,6 @@ is_contact: true
 
 ## My socials 
 
-*<a href = "https://www.linkedin.com/in/tim-faverjon-cs/">LinkedIn</a></p>
+*<a href = "https://www.linkedin.com/in/tim-faverjon-cs/">LinkedIn</a>
 
-*<a href = "https://twitter.com/faverjon_tim">Twitter</a></p>
+*<a href = "https://twitter.com/faverjon_tim">Twitter</a>
