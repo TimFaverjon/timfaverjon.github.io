@@ -29,3 +29,9 @@ is_contact: true
 <p style="text-align:center"><a href = "tel:+330145495354">+33 (0) 1 45 49 53 54</a></p>
 
 </div>
+
+## Mes réseaux
+
+*<a href = "https://www.linkedin.com/in/tim-faverjon-cs/">LinkedIn</a></p>
+
+*<a href = "https://twitter.com/faverjon_tim">Twitter</a></p>
