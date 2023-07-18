@@ -16,3 +16,4 @@ lang: "en"
 * <a href = "Poster IC2S2 copenhagen - Tim Faverjon.pdf">Here</a> you can find the pdf version of my poster.
 * My work is now under review, I will update this page as soon as it's been reviewed !
 * Follow me on my social media if you want to be updated...
+* If you want to VOTE for my poster the is board n° 58 on July 18 :)
