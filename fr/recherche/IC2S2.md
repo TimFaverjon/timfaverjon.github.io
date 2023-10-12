@@ -15,5 +15,4 @@ lang: "fr"
 
 * <a href = "Poster IC2S2 copenhagen - Tim Faverjon.pdf">Ici</a> tu pourras trouver la version pdf de mon poster.
 * Mon travail est en cours de relécture, je mettrai à jour cette page dès qu'il aura été évalué !
-* Suit-moi sur mes réseaux sociaux si tu veut être tenu au courant...
-* Si tu veux VOTER pour mon poster c'est : Board n° 56 on July 18 :)
+* Suit-moi sur mes <a href = "fr/contact">réseaux sociaux</a> si tu veut être tenu au courant...
