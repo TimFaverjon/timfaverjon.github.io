@@ -15,7 +15,11 @@ lang: "fr"
 
 <p> De par ma formation de data scientist j'essaye d'affronter les problèmes liés aux algorithmes de recommandation avec une double approche, à la fois technique et sociologique. </p>
 
+<p> Voici la vidéo d'une présentation de mes travaux à la <a href = "https://www.arcom.fr/actualites/deuxieme-journee-detudes-de-larcom-jeudi-16-novembre-decouvrez-le-programme-et-les-chercheurs-invites-presenter-leurs-travaux">deuxième journée d'études de l'Arcom</a>. </p>
+
 </div>
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8ptoab" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" > </iframe> </div>
 
 ---
 
