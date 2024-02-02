@@ -25,6 +25,11 @@ lang: "fr"
 
 </div>
 
+### Poster
+
+<embed src="CIVICA research conference 2023 - Tim Faverjon - Poster.pdf" type="application/pdf" width="100%" height="600px" />
+
+
 ### Ressources
 
 * Ce travail fait partie du projet de recherche <a href = "https://medialab.sciencespo.fr/activites/ai-political-machine/">AI political machines</a> et fait partie du travail effectué lors de la première année de ma thèse de doctorat : *The socio-political lives of AI systems - An investigation into how socio-demographic features and political attitudes guide the algorithms in social medias*.
