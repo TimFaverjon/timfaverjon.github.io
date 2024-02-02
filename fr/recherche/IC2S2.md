@@ -13,6 +13,7 @@ lang: "fr"
 
 </div>
 
-* <a href = "Poster IC2S2 copenhagen - Tim Faverjon.pdf">Ici</a> tu pourras trouver la version pdf de mon poster.
-* Mon travail est en cours de relécture, je mettrai à jour cette page dès qu'il aura été évalué !
+<embed src="Poster IC2S2 copenhagen - Tim Faverjon.pdf" type="application/pdf" width="100%" height="600px" />
+
+* Tu pourras trouver une partie du travail présenté dans [ce papier](/recherche/ASONAM.pdf)!
 * Suit-moi sur mes <a href = "fr/contact">réseaux sociaux</a> si tu veut être tenu au courant...

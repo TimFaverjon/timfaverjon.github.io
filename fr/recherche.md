@@ -19,17 +19,17 @@ lang: "fr"
 
 ### En cours de publication
 
-* Faverjon, T., Ramaciotti, P. (2023). Discovering ideological structures in representation learning spaces in recommender systems on social media data. In 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM).
+* Faverjon, T., Ramaciotti, P. (2023). **Discovering ideological structures in representation learning spaces in recommender systems on social media data.** In 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM). [Ici](https://hal.science/hal-04297854/)
 
 ### Posters de conférence
 
-* Faverjon, T., Ramaciotti, P. (2023). How do recommendation algorithms learn and leverage political preferences of users?. In IC2S2 2023: 9th International Conference on Computational Social Science. <a href = "recherche/IC2S2">Link</a>.
+* Faverjon, T., Ramaciotti, P. (2023). **How do recommendation algorithms learn and leverage political preferences of users?** In IC2S2 2023: 9th International Conference on Computational Social Science. <a href = "recherche/IC2S2">Ici</a>.
 
-* Faverjon, T. (2023). Relations between political preferences of users and recommendation algorithms on social medias. CIVICA resaerch conference 2023. <a href = "recherche/CIVICA23">Link</a>.
+* Faverjon, T. (2023). **Relations between political preferences of users and recommendation algorithms on social medias.** CIVICA resaerch conference 2023. <a href = "recherche/CIVICA23">Ici</a>.
 
 ---
 
 ## Projets de recherche
 
-* Participation au projet AI — Political Machines (AIPM)
-* Participation à l'équipe de recherche FOCOS (CRI)
+* Participation au projet [AI — Political Machines (AIPM)](https://medialab.sciencespo.fr/activites/ai-political-machine/)
+* Équipe de recherche [FOCOS (Learning Planet Institute)](https://computational-sociopolitics.org/)
