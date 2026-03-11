@@ -40,7 +40,7 @@ lang: "fr"
   <p>
     Le PDF ne peut pas être affiché dans ce navigateur.
     <a href="{{ '/fr/recherche/Abstract_ Tim_Faverjon_2023_IC2S2_copenaghen.pdf' | relative_url }}">
-      Ouvrir le poster
+      Ouvrir le pdf
     </a>
   </p>
 </object>
