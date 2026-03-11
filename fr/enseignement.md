@@ -15,10 +15,6 @@ lang: "fr"
 
 </div>
 
-* 2023—2024:
-    * Mathématiques pour les sciences sociales quantitatives — Sciences Po
-    * Culture Numérique — Sciences Po
-
 ---
 
 ## Mathématiques pour les sciences sociales quantitatives — *Français*
