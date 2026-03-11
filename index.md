@@ -11,11 +11,11 @@ lang: "fr"
 
 <p> Je suis doctorant en Sociologie Computationnelle au médialab de Sciences Po et à l'Université Paris-Cité. </p>
 
-<p> Je travaille sur les algorithmes de recommandations, et en particulier, je m'intéresse aux techniques d'explicabilité algorithmique. </p>
+<p> Je travaille sur les algorithmes de recommandations, et en particulier, je m'intéresse aux techniques d'explicabilité algorithmique et aux attitudes politique en ligne. </p>
 
-<p> De par ma formation de data scientist j'essaye d'affronter les problèmes liés aux algorithmes de recommandation avec une double approche, à la fois technique et sociologique. </p>
+<p> De par ma formation de data scientist j'essaye d'affronter les problèmes liés aux algorithmes de recommandation avec une approche interdisciplinaire, à la fois technique et sociologique. </p>
 
-<p> Voici la vidéo d'une présentation de mes travaux à la <a href = "https://www.arcom.fr/actualites/deuxieme-journee-detudes-de-larcom-jeudi-16-novembre-decouvrez-le-programme-et-les-chercheurs-invites-presenter-leurs-travaux">deuxième journée d'études de l'Arcom</a>. </p>
+<p> Voici une présentation de mes travaux à la <a href = "https://www.arcom.fr/actualites/deuxieme-journee-detudes-de-larcom-jeudi-16-novembre-decouvrez-le-programme-et-les-chercheurs-invites-presenter-leurs-travaux">deuxième journée d'études de l'Arcom</a>. </p>
 
 </div>
 
@@ -27,9 +27,9 @@ lang: "fr"
 
 <div style="text-align: justify">
 
-<p> Dans le cadre de mon doctorat, je développe une nouvelle méthode d'explication politique des systèmes de recommandations.</p>
+<p> Je développe des méthodes d'explication politique des systèmes de recommandations pour identifier les attitudes politiques dans les espaces lattents des algorithme.</p>
 
-<p> Une présentation plus détaillée de mon sujet de thèse ainsi qu'une liste des publications auxquelles j'ai participé ou sur lesquelles je travaille sont <a href = "/fr/recherche">disponibles sur ce site</a>.</p>
+<p> Plus de détails sur la page <a href = "/fr/recherche">recherche</a>.</p>
 
 </div>
 
