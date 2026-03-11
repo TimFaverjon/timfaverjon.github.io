@@ -27,7 +27,19 @@ lang: "fr"
 
 ### Poster
 
-<embed src="CIVICA research conference 2023 - Tim Faverjon - Poster.pdf" type="application/pdf" width="100%" height="600px" />
+<object
+  data="{{ '/fr/recherche/CIVICA_research_conference_2023_Tim_Faverjon_Poster.pdf' | relative_url }}"
+  type="application/pdf"
+  width="100%"
+  height="600"
+>
+  <p>
+    Le PDF ne peut pas être affiché dans ce navigateur.
+    <a href="{{ '/fr/recherche/CIVICA_research_conference_2023_Tim_Faverjon_Poster.pdf' | relative_url }}">
+      Ouvrir le poster
+    </a>
+  </p>
+</object>
 
 
 ### Ressources
