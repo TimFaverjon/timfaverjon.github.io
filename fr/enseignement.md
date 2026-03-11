@@ -22,7 +22,7 @@ lang: "fr"
 ---
 
 ## Mathématiques pour les sciences sociales quantitatives — *Français*
-### Sciences Po — Campus da Paris
+### Sciences Po — Campus de Paris
 ### 2023—2024
 
 <div style="text-align: justify"> 
@@ -38,6 +38,7 @@ lang: "fr"
 <p>... à venire ...</p>
 
 </div>
+
 ---
 
 ## Culture Numérique — *Français*
@@ -46,7 +47,7 @@ lang: "fr"
 
 <div style="text-align: justify"> 
 
-<p> Ce cours de culture numérique a été conçu pour vous aider à (1) explorer, à  (2) coder et à (3) décoder les cultures numériques. Les séances du cours, en relation avec le cours en ligne sur le Moodle, vont vous permettre de décoder quelques un des grands enjeux du numérique en mobilisant tour à tour des connaissances en histoire, en sociologie, en sciences politiques et en sociologie des sciences et des techniques. Parallèlement, nous mènerons pendant les séances de cours des exercices de codes pratiques autour de la manipulation de données et de l’écriture dans des formats numériques. Ces deux apprentissages, connaître les cultures numériques et pratiquer le numérique, seront mis au service du principal exercice du cours, celui de produire en petit groupe une exploration numérique. Il s’agira de conduire une enquête sur un sujet précis que vous aurez défini et de rendre compte de votre enquête de façon numérique. </p>
+<p> Ce cours de culture numérique a été conçu pour vous aider à (1) explorer, à  (2) coder et à (3) décoder les cultures numériques. Les séances du cours, vont vous permettre de décoder quelques un des grands enjeux du numérique en mobilisant tour à tour des connaissances en histoire, en sociologie, en sciences politiques et en sociologie des sciences et des techniques. Parallèlement, nous mènerons pendant les séances de cours des exercices de codes pratiques autour de la manipulation de données et de l’écriture dans des formats numériques. Ces deux apprentissages, connaître les cultures numériques et pratiquer le numérique, seront mis au service du principal exercice du cours, celui de produire en petit groupe une exploration numérique. Il s’agira de conduire une enquête sur un sujet précis que vous aurez défini et de rendre compte de votre enquête de façon numérique. </p>
 
 </div>
 
@@ -54,6 +55,15 @@ lang: "fr"
 
 <div style="text-align: justify"> 
 
-<p>... à venire ...</p>
+<p> Vous trouverez ci-dessous les diaporamas des cours ainsi que le syllabus du cours. </p>
 
 </div>
+
+* 📄 <a href = "cours/Culture_num/Syllabus Culture Numérique - Tim Faverjon - 2025.pdf">Syllabus</a>
+* <a href = "cours/Culture_num/Cours 0 - introduction _Culture numérique.pdf">Cours 0 — Introduction : Culture numérique</a>
+* <a href = "cours/Culture_num/Cours 1 - Généalogie d'internet.pdf">Cours 1 — Généalogie d'internet</a>
+* <a href = "cours/Culture_num/Cours 2 - Web bien commun.pdf">Cours 2 — Le Web comme bien commun</a>
+* <a href = "cours/Culture_num/Cours 3 - Social medias.pdf">Cours 3 — Réseaux sociaux</a>
+* <a href = "cours/Culture_num/Cours 4 - Democratie.pdf">Cours 4 — Démocratie et numérique</a>
+* <a href = "cours/Culture_num/Cours 5 - Plateformes numériques.pdf">Cours 5 — Plateformes numériques</a>
+* <a href = "cours/Culture_num/Cours 6 - Algorithmes v2025.pdf">Cours 6 — Algorithmes</a>
